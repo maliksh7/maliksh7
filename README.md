@@ -11,6 +11,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography and Dark Mode
 
+[![Twitter: _bullbat](https://img.shields.io/twitter/follow/_bullbat?style=social)](https://twitter.com/_bullbat)
+[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
+[![GitHub maliksh7](https://img.shields.io/github/followers/maliksh7?label=follow&style=social)](https://github.com/maliksh7)
+[![website](https://img.shields.io/badge/PortfolioWebsite?style=flat-square&logo=google-chrome)](http://saadmalik7.wordpress.com/)
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -32,6 +37,7 @@
 [<img align="left" alt="_bullat | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+  
 <br />
 
 
