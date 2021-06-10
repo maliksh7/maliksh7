@@ -60,7 +60,7 @@
 
 </a>
 <a href="https://github.com/maliksh7/MALICIOUS-ACTIVITY-DETECTION-USING-BERT">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=MALICIOUS-ACTIVITY-DETECTION-USING-BERT&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=MALICIOUS-ACTIVITY-DETECTION&theme=light" />
 </a>
 
 
