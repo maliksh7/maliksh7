@@ -1,6 +1,6 @@
 ### Hi there, I'm Saad Malik - aka [_bullbat][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://saadmalik7.wordpress.com/)
+[![Website](https://img.shields.io/website?label=saadmalik7.wordpress.com&style=for-the-badge&url=http://saadmalik7.wordpress.com)](http://saadmalik7.wordpress.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_bullbat)
 
 ## I'm a Student and Developer!!
