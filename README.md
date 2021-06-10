@@ -10,11 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love photography and Dark Mode
 
-[![Twitter: _bullbat](https://img.shields.io/twitter/follow/_bullbat?style=social)](https://twitter.com/_bullbat)
-[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
-[![GitHub maliksh7](https://img.shields.io/github/followers/maliksh7?label=follow&style=social)](https://github.com/maliksh7)
-[![website](https://img.shields.io/badge/PortfolioWebsite-saadmalik7.wordpress.com-2648ff?style=flat-square&logo=google-chrome)](http://saadmalik7.wordpress.com/)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -23,10 +18,17 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+
+
+[![Twitter: _bullbat](https://img.shields.io/twitter/follow/_bullbat?style=social)](https://twitter.com/_bullbat)
+[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
+[![GitHub maliksh7](https://img.shields.io/github/followers/maliksh7?label=follow&style=social)](https://github.com/maliksh7)
+[![website](https://img.shields.io/badge/PortfolioWebsite-saadmalik7.wordpress.com-2648ff?style=flat-square&logo=google-chrome)](http://saadmalik7.wordpress.com/)
 
 
 ### Connect with me:
