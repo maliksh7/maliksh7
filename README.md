@@ -69,10 +69,10 @@
 ---
 
 <a href="https://github.com/maliksh7">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&theme=light&hide_langs_below=1" />
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&theme=light&hide_langs_below=1&theme=dark" />
 </a>
 <a href="https://github.com/maliksh7">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&theme=light&line_height=27" alt="Bullbat's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&theme=light&line_height=27&theme=dark" alt="Bullbat's github stats"/>
 </a>
 <a href="https://github.com/maliksh7/DeepMAD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
