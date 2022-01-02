@@ -74,8 +74,8 @@
 <a href="https://github.com/maliksh7">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&theme=light&line_height=27" alt="Bullbat's github stats"/>
 </a>
-<a href="https://github.com/maliksh7/Andriod-iOS-Dev---Flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=light" />
+<a href="https://github.com/maliksh7/DeepMAD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
 </a>
 <a href="https://github.com/maliksh7/MALICIOUS-ACTIVITY-DETECTION-USING-BERT">
  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=MALICIOUS-ACTIVITY-DETECTION-USING-BERT&theme=dark" />
