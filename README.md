@@ -1,6 +1,6 @@
 ### Hi there, I'm Saad Malik - aka [_bullbat][website] 👋
 
-[![Website](https://img.shields.io/website?label=_bullat&style=for-the-badge&url=http://saadmalik7.wordpress.com)](http://maliksh7.github.io/)
+[![Website](https://img.shields.io/website?label=_bullat&style=for-the-badge&url=http://maliksh7.github.io/)](http://maliksh7.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_bullat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_bullbat)
 
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@_bullbat)
