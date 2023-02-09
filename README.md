@@ -83,7 +83,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/maliksh7" titlr="Saad's github stats">
-     <img width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
+     <img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
     </a>
   </div>
   
