@@ -88,7 +88,7 @@
   
   <div align=center>
     <a href="https://github.com/maliksh7">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
+      <img align="left" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
     </a> 
   </div>
 </p>
