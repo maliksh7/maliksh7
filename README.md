@@ -75,14 +75,14 @@
   </div>
   
   <div align=center>
-    <a href="https://github.com/maliksh7/DeepMAD">
+    <a href="https://github.com/maliksh7/DeepMAD" title="DeepMAD">
       <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/pin/?username=maliksh7&repo=DeepMAD&theme=dark" />
     </a> 
   </div>
 
   <div align=center>
     <a href="https://github.com/maliksh7">
-     <img align="left" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Bullbat's github stats"/>
+     <img width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
     </a>
   </div>
   
