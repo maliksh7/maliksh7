@@ -83,13 +83,13 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/maliksh7" titlr="Saad's github stats">
-     <img align="center" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
+     <img align="center" width=300 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
     </a>
   </div>
   
   <div align=center>
     <a href="https://github.com/maliksh7" title="Top Languages">
-      <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
+      <img align="center" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
     </a> 
   </div>
 </p>
