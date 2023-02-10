@@ -67,20 +67,24 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
 <p align=center>
+
   <div align=center>
+   
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-          <img align="left" width=350 src="https://streak-stats.demolab.com/?user=maliksh7&theme=ads-juicy-fresh&border_radius=8" alt="maliksh7"/>
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=maliksh7&theme=ads-juicy-fresh&border_radius=8" alt="maliksh7"/>
     </a> 
 
-    <a href="https://github.com/maliksh7" titlr="Saad's github stats">
-          <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
+    <a href="https://github.com/maliksh7" title="Saad's github stats">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
     </a>
+  
   </div>
-  <br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/maliksh7" title="Top Languages">
-      <img align="center" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
+      <img align="center" width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliksh7&hide=c%23,,Rails,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=false&hide_langs_below=1&theme=dark" />
     </a> 
   </div>
 </p>
