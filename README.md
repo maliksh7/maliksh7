@@ -74,7 +74,7 @@
     </a> 
 
     <a href="https://github.com/maliksh7" titlr="Saad's github stats">
-     <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
+          <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=maliksh7&show_icons=true&line_height=27&theme=dark" alt="Saad's github stats"/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
