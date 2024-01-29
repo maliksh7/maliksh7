@@ -19,6 +19,10 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects, Get admission for Masters abroad!
 - ⚡ Fun fact: I love photography and Dark Mode
 
+<h4 align="center">
+  <a href="https://github.com/maliksh7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
+
 
 ### Connect with me:
 
@@ -92,6 +96,4 @@
 [linkedin]: https://www.linkedin.com/in/maliksh7/
 [medium]: https://medium.com/@_bullbat
 
-<h4 align="center">
-  <a href="https://github.com/maliksh7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
