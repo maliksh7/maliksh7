@@ -12,11 +12,8 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@_bullbat)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://saadmalik7.wordpress.com/)
 
-## I'm a Student and Developer!!
-- 🎓 I graduated from FAST National University
-- 🌱 I’m Master's Student and a Software Engineer
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects, Get admission for Masters abroad!
+## I'm a Software Developer!!
+- 🎓 I graduated from Hof University of Applied Science
 - ⚡ Fun fact: I love photography and Dark Mode
 
 
@@ -27,7 +24,7 @@
 <p>
   💬 Ask me anything about from <a href="https://github.com/maliksh7/maliksh7/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: p176137@nu.edu.pk">p176137@nu.edu.pk</a>
+  📫 How to reach me: <a href="mailto: muhsaad.hassan@gmail.com">p176137@nu.edu.pk</a>
 </p>
 
 
@@ -38,32 +35,6 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@_bullbat)
 
 <br />
-
-**Languages and Tools/ Technologies:**  
-
-
-
-<code><img title="C++" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img title="Ruby" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img title="Rails" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
-<code><img title="Postgres" height="20" src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png"></code>
-<code><img title="Python" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img title="Dart" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img title="Javascript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img title="VueJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img title="NodeJS" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Bear minimum to schedule a sidekiq job using ruby on rails](https://medium.com/@_bullbat/bear-minimum-to-schedule-a-sidekiq-job-using-ruby-on-rails-551248400c22)
-- [How I implemented Snake and Apple Game using PyGame in Python](https://medium.com/@_bullbat/how-i-implemented-snake-and-apple-game-using-pygame-in-python-dc60e5a314e6)
-- [When to Use MongoDB Rather than MySQL](https://saadmalik7.wordpress.com/2021/06/03/when-to-use-mongodb-rather-than-mysql/)
-- [All You Need to know about CURL Command](https://saadmalik7.wordpress.com/2019/08/04/all-you-need-to-know-about-curl-command/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://saadmalik7.wordpress.com/)
 
 ---
 
