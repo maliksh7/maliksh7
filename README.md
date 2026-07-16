@@ -7,9 +7,7 @@
 </h1>
 
 [![Website](https://img.shields.io/website?label=_Portfolio&style=for-the-badge&url=http://maliksh7.github.io/)](http://maliksh7.github.io/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_bullat?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/_bullbat)
-
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@_bullbat)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
 [![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://saadmalik7.wordpress.com/)
 
 ## I'm a Software Developer!!
@@ -32,7 +30,7 @@
 [![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
 [![GitHub maliksh7](https://img.shields.io/github/followers/maliksh7?label=follow&style=social)](https://github.com/maliksh7)
 [![website](https://img.shields.io/badge/PortfolioWebsite-maliksh7.github.io-2648ff?style=flat-square&logo=google-chrome)](http://maliksh7.github.io/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@_bullbat)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
 
 <br />
 
@@ -63,7 +61,7 @@
 [youtube]: https://www.youtube.com/channel/UC1aHUgPvEaNQW1X3B-ErYhA
 [instagram]: https://www.instagram.com/_bullbat/
 [linkedin]: https://www.linkedin.com/in/maliksh7/
-[medium]: https://medium.com/@_bullbat
+[medium]: https://saadhsn.medium.com/
 
 <h4 align="center">
   <a href="https://github.com/maliksh7?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
