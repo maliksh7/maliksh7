@@ -22,7 +22,7 @@
 <p>
   💬 Ask me anything about from <a href="https://github.com/maliksh7/maliksh7/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: muhsaad.hassan@gmail.com">p176137@nu.edu.pk</a>
+  📫 How to reach me: <a href="mailto: muhsaad.hassan@gmail.com">muhsaad.hassan@gmail.com</a>
 </p>
 
 
