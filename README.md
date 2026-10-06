@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/website?label=_Portfolio&style=for-the-badge&url=http://maliksh7.github.io/)](http://maliksh7.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
-[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
+[![Linkedin: muhsaadhassan](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhsaadhassan/)](https://www.linkedin.com/in/muhsaadhassan/)
 ## I'm a Software Developer!!
 - 🎓 I graduated from Hof University of Applied Science
 - ⚡ Fun fact: I love photography and Dark Mode
@@ -26,7 +26,7 @@
 
 
 [![Twitter: _bullbat](https://img.shields.io/twitter/follow/_bullbat?style=social)](https://twitter.com/_bullbat)
-[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
+[![Linkedin: muhsaadhassan](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhsaadhassan/)](https://www.linkedin.com/in/muhsaadhassan/)
 [![GitHub maliksh7](https://img.shields.io/github/followers/maliksh7?label=follow&style=social)](https://github.com/maliksh7)
 [![website](https://img.shields.io/badge/PortfolioWebsite-maliksh7.github.io-2648ff?style=flat-square&logo=google-chrome)](http://maliksh7.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
@@ -59,7 +59,7 @@
 [twitter]: https://twitter.com/_bullbat
 [youtube]: https://www.youtube.com/channel/UC1aHUgPvEaNQW1X3B-ErYhA
 [instagram]: https://www.instagram.com/_bullbat/
-[linkedin]: https://www.linkedin.com/in/maliksh7/
+[linkedin]: https://www.linkedin.com/in/muhsaadhassan/
 [medium]: https://saadhsn.medium.com/
 
 <h4 align="center">
