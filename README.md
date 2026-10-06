@@ -8,8 +8,7 @@
 
 [![Website](https://img.shields.io/website?label=_Portfolio&style=for-the-badge&url=http://maliksh7.github.io/)](http://maliksh7.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
-[!(linkedin)(https://www.linkedin.com/in/muhsaadhassan/)]
-
+[![Linkedin: maliksh7](https://img.shields.io/badge/-maliksh7-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maliksh7/)](https://www.linkedin.com/in/maliksh7/)
 ## I'm a Software Developer!!
 - 🎓 I graduated from Hof University of Applied Science
 - ⚡ Fun fact: I love photography and Dark Mode
