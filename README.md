@@ -10,7 +10,6 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
 [!(LinkedIn)(https://www.linkedin.com/in/muhsaadhassan/)]
 
-
 ## I'm a Software Developer!!
 - 🎓 I graduated from Hof University of Applied Science
 - ⚡ Fun fact: I love photography and Dark Mode
