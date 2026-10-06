@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=maliksh7.maliksh7">
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Saad....;Nice+to+meet+you!&center=true&size=30">
   </a>
-</h1>
+</h1> -->
 
 [![Website](https://img.shields.io/website?label=_Portfolio&style=for-the-badge&url=http://maliksh7.github.io/)](http://maliksh7.github.io/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://saadhsn.medium.com/)
-[![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)](http://saadmalik7.wordpress.com/)
+
 
 ## I'm a Software Developer!!
 - 🎓 I graduated from Hof University of Applied Science
